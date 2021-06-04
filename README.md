@@ -44,6 +44,8 @@ python main.py
 ```
 Or run the main() in the main.py file using some IDEs (e.g. Pycharm).
 
+## I think it could just end here
+
 ## Requirements
 
 To install requirements:
