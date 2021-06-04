@@ -3,6 +3,7 @@
 
 
 This repository is the official implementation of **Robust Matrix Factorization with Grouping Effect**. 
+## Requirements
 To install Python package from github, you need to clone a repository.
 ```
 git clone https://github.com/GroupingEffects/GRMF
